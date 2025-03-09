@@ -6216,7 +6216,7 @@ html:lang(ar) .Wallet__C[data-v-7dd1adab]:before {
 
 .GameList__C-item.active[data-v-17d56002] {
     background: linear-gradient(90deg, rgb(9 27 107) 0%, rgb(30 44 109) 100%);
-    border: .01333rem solid #110b72;
+    border: .01333rem solid #594eff;
     border-radius: .26667rem
 }
 
@@ -29846,8 +29846,10 @@ html:lang(ar) .NorthRule__C-Content .borderTopStyle span[data-v-7bb580e6]:first-
     width: calc(100% - .69333rem);
     height: 2.66667rem;
     margin: .48rem auto 0;
-    background-image: url(/assets/png/wingoissue-50228a79.png);
+    /* background-image: url(/assets/png/wingoissue-50228a79.png); */
     background-repeat: no-repeat;
+    background: #1b11b2;
+    border-radius: 20px;
     background-size: 100% 100%;
     background-position: .01333rem center;
     display: -webkit-box;
@@ -29871,7 +29873,7 @@ html:lang(ar) .NorthRule__C-Content .borderTopStyle span[data-v-7bb580e6]:first-
     width: 4rem;
     font-size: .29333rem;
     text-align: center;
-    border: .01333rem solid var(--bg_color_L2);
+    border: .01333rem solid #ffffff;
     border-radius: .8rem;
     display: -webkit-box;
     display: -webkit-flex;
@@ -30011,7 +30013,7 @@ html:lang(ar) .TimeLeft__C-num[data-v-3e4c6499] {
 }
 
 .TimeLeft__C-time>div[data-v-3e4c6499] {
-    background-color: #45080D;
+    background-color:#091b6b;
     color: var(--text_color_L1);
     font-weight: 700;
     font-size: .48rem;
@@ -30024,11 +30026,11 @@ html:lang(ar) .TimeLeft__C-num[data-v-3e4c6499] {
 }
 
 .TimeLeft__C-time>div[data-v-3e4c6499]:first-child {
-    background: #45080D
+    background: #091b6b;
 }
 
 .TimeLeft__C-time>div[data-v-3e4c6499]:last-child {
-    background: #45080D
+    background: #091b6b;
 }
 
 .van-toast[data-v-7f36fe93] {
@@ -30439,7 +30441,7 @@ html:lang(ar) .Betting__C-mark[data-v-4aca9bd1] {
     display: inline-block;
     border-radius: .4rem;
     padding: 0 .4rem;
-    background-color: #45080D;
+    background-color: #091b6b;
     font-weight: 700;
     font-size: 3.73333rem
 }
@@ -30578,10 +30580,10 @@ html:lang(ar) .Betting__C-mark[data-v-4aca9bd1] {
     height: .90667rem;
     line-height: .90667rem;
     text-align: center;
-    border: .02667rem solid var(--darkLight, var(--norm_red-color));
+    border: .02667rem solid #ffffff;
     border-radius: .21333rem;
     font-size: .37333rem;
-    color: var(--darkLight, var(--norm_red-color))
+    color: #e2e1e7;
 }
 
 .Betting__C-multiple-r[data-v-4aca9bd1] {
@@ -31771,12 +31773,14 @@ html:lang(ar) .WinGo__C-head-more[data-v-5d71c3fd] {
     width: calc(100% - .69333rem);
     height: 5rem;
     margin: .48rem auto 0;
-    background-image: url(/assets/png/trxbg-c5f4f0f4.png);
+    /* background-image: url(/assets/png/trxbg-c5f4f0f4.png); */
     background-repeat: no-repeat;
+    background: #1b11b2;
     background-size: cover;
     background-position: .01333rem center;
     color: var(--text_color_L4);
-    padding: .42667rem .29333rem
+    padding: .42667rem .29333rem;
+    border-radius: 20px;
 }
 
 .TimeLeft__C-l1[data-v-3c1bee29] {
@@ -31817,7 +31821,7 @@ html:lang(ar) .WinGo__C-head-more[data-v-5d71c3fd] {
     -webkit-box-align: center;
     -webkit-align-items: center;
     align-items: center;
-    background: #2F0101;
+    background: #091b6b;
     border-radius: .8rem;
     font-size: .29333rem;
     gap: .06667rem;
@@ -32072,7 +32076,7 @@ html:lang(ar) .WinGo__C-head-more[data-v-5d71c3fd] {
 .GameRecord__C-head[data-v-7a795a91] {
     height: 1.06667rem;
     line-height: 1.06667rem;
-    background: linear-gradient(90deg, rgba(57,4,4,1) 0%, rgba(92,4,4,1) 100%);
+    background: linear-gradient(90deg, rgb(26 16 170) 0%, rgb(26 16 170) 100%);
     border-radius: .13333rem .13333rem 0 0;
     font-weight: 700;
     font-size: .34667rem;
@@ -32107,7 +32111,7 @@ html:lang(ar) .WinGo__C-head-more[data-v-5d71c3fd] {
 }
 
 .GameRecord__C-body>div[data-v-7a795a91] {
-    background: #45080D;
+    background: #1d1589;
     color: var(--darkTextW, var(--text_color_L1))
 }
 
@@ -32229,7 +32233,7 @@ html:lang(ar) .WinGo__C-head-more[data-v-5d71c3fd] {
 
 .GameRecord__C-foot[data-v-7a795a91] {
     height: 1.86667rem;
-    background: #45080D;
+    background: #1a10aa;
     color: var(--text_color_L1);
     padding: .46667rem 2.37333rem;
     margin-top: .48rem;
@@ -32263,7 +32267,7 @@ html:lang(ar) .WinGo__C-head-more[data-v-5d71c3fd] {
 
 .GameRecord__C-foot-previous.disabled[data-v-7a795a91],
 .GameRecord__C-foot-next.disabled[data-v-7a795a91] {
-    background: #2F0101;
+    background: #091b6b;
     pointer-events: none
 }
 
@@ -32274,7 +32278,7 @@ html:lang(ar) .WinGo__C-head-more[data-v-5d71c3fd] {
 
 .GameRecord__C-foot-previous .GameRecord__C-icon[data-v-7a795a91],
 .GameRecord__C-foot-next .GameRecord__C-icon[data-v-7a795a91] {
-    color: var(--text_color_L4)
+    color: #0c0c0c;
 }
 
 .van-toast[data-v-ac90c264] {

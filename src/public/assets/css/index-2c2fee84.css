@@ -1448,7 +1448,7 @@ textarea {
     color: var(--text_color_L4);
     border: .01333rem solid var(--main-color);
     border-radius: .53333rem;
-    background: #2F0101
+    background: #100698;
 }
 
 .noticeBar__container button.hotIcon:before {

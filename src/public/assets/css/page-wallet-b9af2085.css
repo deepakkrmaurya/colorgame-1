@@ -28,7 +28,7 @@
 }
 
 .wallet-container-header[data-v-0dabd3fc] {
-    background: #45080D;
+    background: #091b6b;
     width: 100%;
     color: #fff;
     padding-bottom: .32rem
@@ -139,7 +139,7 @@
     padding: .62667rem .18667rem .26667rem;
     font-family: bahnschrift;
     border-radius: .26667rem;
-    background-color: #45080D;
+    background-color: #1a10aa;
     width: 100%;
     margin-top: .32rem
 }
@@ -242,7 +242,7 @@
     width: 1.30667rem;
     height: 1.30667rem;
     border-radius: .4rem;
-    background: #2F0101;
+    background: #091b6b;
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
@@ -294,7 +294,7 @@
 .wallet-container-content .gameList>div[data-v-0dabd3fc] {
     width: 31%;
     min-height: 2.13333rem;
-    background-color: #45080D;
+    background-color: #1a10aa;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -5604,7 +5604,7 @@ html:lang(ar) .balanceAssets__tip img[data-v-0879c174] {
 }
 
 .withdrawWay>div.select[data-v-9bae072d] {
-    background: linear-gradient(94deg, rgba(75,0,0,1) 0%, rgba(121,0,0,1) 100%);
+    background: linear-gradient(94deg, rgb(26 16 170) 0%, rgb(26 16 170) 100%);
     color: var(--text_color_L4)
 }
 
@@ -5654,7 +5654,7 @@ h6.red[data-v-cb5583fe] {
 }
 
 .explain[data-v-cb5583fe] {
-    background: #45080D;
+    background: #1a10aa;
     box-shadow: var(--BoxShadowColor-9);
     border-radius: .26667rem .26667rem 0 0;
     padding: .33333rem .26667rem 0
@@ -5664,7 +5664,7 @@ h6.red[data-v-cb5583fe] {
     -webkit-box-pack: justify;
     -webkit-justify-content: space-between;
     justify-content: space-between;
-    background: #2F0101;
+    background: #091b6b;
     border-radius: .8rem;
     height: 1.17333rem;
     padding: .26667rem;
@@ -5915,7 +5915,7 @@ html:lang(ar) .explain .input .place-div[data-v-cb5583fe]:after {
 }
 
 .addWithdrawType-top[data-v-ef5c8333] {
-    background: #45080D;
+    background: #1a10aa;
     border-radius: .13333rem;
     height: 2.66667rem;
     display: -webkit-box;
@@ -6003,13 +6003,13 @@ html:lang(ar) .explain .input .place-div[data-v-cb5583fe]:after {
 }
 
 .Recharge__container-intro[data-v-76eb7f31] {
-    background: #45080D;
+    background: #1a10aa;
     border-radius: 0 0 .26667rem .26667rem;
     padding: .33333rem .26667rem
 }
 
 .Recharge__container-intro .br[data-v-76eb7f31] {
-    border: .01333rem solid #940101;
+    border: .01333rem solid #ffffff;
     border-radius: .26667rem;
     padding: .26667rem
 }
@@ -7749,7 +7749,7 @@ html:lang(ar) .explain .input .place-div[data-v-cb5583fe]:after {
     text-align: center;
     padding: .4rem 0;
     max-width: 10rem;
-    background: #45080D;
+    background: #1a10aa;
     border-radius: 0;
     margin-bottom: 0
 }
