@@ -13389,7 +13389,7 @@ html:lang(ar) .changLong__C-bet-l .titel[data-v-91d808d9] {
 
 .MyGameRecord__C-foot[data-v-4b21e13b] {
     height: 1.86667rem;
-    background: #45080D;
+    background: #1b11b2;
     padding: .46667rem 2.37333rem;
     margin-top: .48rem;
     display: -webkit-box;
@@ -13428,7 +13428,7 @@ html:lang(ar) .changLong__C-bet-l .titel[data-v-91d808d9] {
 
 .MyGameRecord__C-foot-previous.disabled[data-v-4b21e13b],
 .MyGameRecord__C-foot-next.disabled[data-v-4b21e13b] {
-    background: #2F0101;
+    background: #091b6b;
     pointer-events: none;
     color: var(--text_color_L2)
 }

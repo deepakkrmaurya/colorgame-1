@@ -7627,7 +7627,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e2a7b350] {
 }
 
 .MyGameRecordList__C[data-v-373b3197] {
-  background-color: #45080D;
+  background-color:#1b11b2;
 }
 
 .MyGameRecordList__C-empty[data-v-373b3197] {
@@ -31211,7 +31211,7 @@ html:lang(ar) .Betting__C-popup-head[data-v-4431c0ec]:before {
 .Trend__C-head[data-v-54016b1c] {
   height: 1.06667rem;
   line-height: 1.06667rem;
-  background: linear-gradient(90deg, rgba(57,4,4,1) 0%, rgba(92,4,4,1) 100%);
+  background: linear-gradient(90deg, rgb(27 17 178) 0%, rgb(27 17 178) 100%);
   border-radius: 0.13333rem 0.13333rem 0 0;
   font-weight: 700;
   font-size: 0.34667rem;
@@ -31219,7 +31219,7 @@ html:lang(ar) .Betting__C-popup-head[data-v-4431c0ec]:before {
 }
 
 .Trend__C-body1[data-v-54016b1c] {
-  background-color: #45080D;
+  background-color: #1d14a7;
   color: #ffffff;
   padding-bottom: 0.37333rem;
 }
@@ -31286,7 +31286,7 @@ html:lang(ar) .Betting__C-popup-head[data-v-4431c0ec]:before {
 
 .Trend__C-body2[data-v-54016b1c] {
   font-size: 0.32rem;
-  background-color: #45080D;
+  background-color: #1d14a7;
 }
 
 .Trend__C-body2 > div[data-v-54016b1c] {
@@ -31456,7 +31456,7 @@ html:lang(ar) .Trend__C-body2 .line-canvas[data-v-54016b1c] {
 
 .Trend__C-foot[data-v-54016b1c] {
   height: 1.86667rem;
-  background: #45080D;
+  background: #1d14a7;
   padding: 0.46667rem 2.37333rem;
   margin-top: 0.48rem;
   display: -webkit-box;
@@ -31489,7 +31489,7 @@ html:lang(ar) .Trend__C-body2 .line-canvas[data-v-54016b1c] {
 
 .Trend__C-foot-previous.disabled[data-v-54016b1c],
 .Trend__C-foot-next.disabled[data-v-54016b1c] {
-  background: #2F0101;
+  background: #091b6b;
   pointer-events: none;
 }
 
@@ -31500,7 +31500,7 @@ html:lang(ar) .Trend__C-body2 .line-canvas[data-v-54016b1c] {
 
 .Trend__C-foot-previous .Trend__C-icon[data-v-54016b1c],
 .Trend__C-foot-next .Trend__C-icon[data-v-54016b1c] {
-  color: #fff;
+  color: #000000;
 }
 
 [data-v-646d4ebc]:root {
