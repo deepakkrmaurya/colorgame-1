@@ -477,7 +477,7 @@ html:lang(ar) .vip-content-card .itemInfo-right[data-v-31cfa30d] {
 }
 .vip-content-weal[data-v-9bb5e81c] {
   margin-top: 0.4rem;
-  background: #45080D;
+  background: #1c3295;
   border-radius: 0.13333rem;
   padding: 0.4rem 0.13333rem;
   overflow: hidden;
@@ -863,7 +863,7 @@ html:lang(ar)
   position: relative;
   border: none;
   width: 50%;
-  background: #45080D;
+  background: #1c3295;
   color: var(--text_color_L2);
 }
 .vip-content-recordVsrule-head > button[data-v-eaa4a307]:before {
@@ -1010,7 +1010,7 @@ html:lang(ar)
   position: relative;
   padding: 0 0.24rem 0.26667rem;
   border-radius: 0.26667rem;
-  background: #45080D;
+  background: #1c3295;
 }
 .vip-content-recordVsrule-con .con-content__rules-item__title[data-v-eaa4a307] {
   height: 0.8rem;
@@ -1145,7 +1145,7 @@ html:lang(ar)
   padding-bottom: 0.8rem;
 }
 .vip-header[data-v-92d3d2e1] {
-  background: #45080D;
+  background: #1c3295;
   height: 4.4rem;
   width: 100%;
   color: #fff;

@@ -231,9 +231,9 @@
 
 .userInfo__container-setting-center[data-v-5bd44e74] {
     width: 9.36rem;
-    background: #45080D;
+    background: #1a10aa;
     border-radius: .26667rem;
-    border: .01333rem solid #940101;
+    border: .01333rem solid #091b6b;
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
@@ -986,7 +986,7 @@ html:lang(ar) .financialServices__container-box>div>div .icon-shadow[data-v-acd6
     width: 100%;
     padding: .34667rem 0 .34667rem .21333rem;
     border-radius: .26667rem;
-    background: #45080D
+    background: #1c3295
 }
 
 .financialServices__container-footer>div>svg[data-v-acd6d46f] {
@@ -2542,7 +2542,7 @@ html:lang(ar) .bet .li .lab[data-v-893cf551]:after {
 }
 
 .bet-container .tabs[data-v-1d8fbc24] {
-    background: #45080D
+    background: #1c3295
 }
 
 .bet-container .tab_item[data-v-1d8fbc24] {
@@ -3287,7 +3287,7 @@ html:lang(ar) .binguo_result[data-v-1d8fbc24]:after {
     align-items: center;
     width: 9.30667rem;
     height: 1.46667rem;
-    background: #45080D;
+    background: #1a10aa;
     border-radius: .13333rem;
     color: var(--text_color_L2);
     padding: .34667rem
@@ -3469,7 +3469,7 @@ html:lang(ar) .binguo_result[data-v-1d8fbc24]:after {
 
 .feedback-container-content-text[data-v-00fab4aa] {
     height: 9.13333rem;
-    background: #45080D;
+    background: #1c3295;
     border-radius: .26667rem;
     display: -webkit-box;
     display: -webkit-flex;
@@ -3602,7 +3602,7 @@ html:lang(ar) .binguo_result[data-v-1d8fbc24]:after {
 .gamestats-container-header[data-v-0fabbe57] .van-tabs--card .van-tabs__wrap .van-tab--card {
     width: 100%;
     height: .8rem;
-    background: #45080D;
+    background: #1c3295;
     box-shadow: none;
     border-radius: .53333rem;
     font-size: .34667rem;
@@ -3624,7 +3624,7 @@ html:lang(ar) .binguo_result[data-v-1d8fbc24]:after {
 
 .gamestats-container-banner[data-v-0fabbe57] {
     height: 3.2rem;
-    background: #45080D;
+    background: #1c3295;
     border-radius: .26667rem;
     margin: .4rem .32rem 0;
     display: -webkit-box;
@@ -3659,7 +3659,7 @@ html:lang(ar) .binguo_result[data-v-1d8fbc24]:after {
 }
 
 .gamestats-container-items[data-v-0fabbe57] {
-    background: #45080D;
+    background: #1c3295;
     border-radius: .13333rem;
     margin: .32rem;
     padding: 0 .53333rem 0 .26667rem
@@ -5377,7 +5377,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
 
 .notification-container-content[data-v-00f99608] {
     min-height: 2.66667rem;
-    background: #45080D;
+    background: #1a10aa;
     border-radius: .26667rem;
     padding: .34667rem .32rem;
     display: -webkit-box;
@@ -5476,7 +5476,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
     flex-direction: column;
     width: 100%;
     height: 5.84rem;
-    background: #45080D
+    background: #1c3295
 }
 
 .redeem-container-header-belly[data-v-695ca243] {
@@ -5507,7 +5507,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
 .redeem-container-receive[data-v-695ca243] {
     height: 7.33333rem;
     width: calc(100% - .64rem);
-    background: #45080D;
+    background: #1a10aa;
     border-radius: .26667rem;
     display: -webkit-box;
     display: -webkit-flex;
@@ -5538,7 +5538,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
 .redeem-container-receive input[data-v-695ca243] {
     width: 100%;
     height: 1.06667rem;
-    background: #2F0101;
+    background: #091b6b;
     border-radius: .8rem;
     border: none;
     font-size: .4rem;
@@ -5581,7 +5581,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
     margin: .4rem 0 .29333rem;
     width: calc(100% - .64rem);
     padding: .34667rem .32rem;
-    background: #45080D;
+    background: #1a10aa;
     border-radius: .26667rem
 }
 
@@ -5785,7 +5785,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
 
 .setting_container .setting_container_item[data-v-6af1b9df] {
     height: 1.86667rem;
-    background: #45080D;
+    background: #1a10aa;
     border-radius: .26667rem;
     display: -webkit-box;
     display: -webkit-flex;
@@ -5843,7 +5843,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
 }
 
 .phone_container[data-v-6af1b9df] {
-    background: #45080D;
+    background: #1a10aa;
     border-radius: .26667rem;
     display: -webkit-box;
     display: -webkit-flex;

@@ -984,7 +984,7 @@
     text-align: start;
     opacity: 0;
     border-radius: .13333rem;
-    background-color: #45080D;
+    background-color: #1c3295;
     overflow: hidden;
     z-index: 1;
     overflow-y: scroll;
@@ -1248,7 +1248,7 @@ html:lang(ar) .dropdown__list[data-v-5067ef5e] {
 }
 
 .dailySignIn__container[data-v-f1e983bd] .navbar .navbar__content {
-    background: #45080D
+    background: #1c3295
 }
 
 .dailySignIn__container[data-v-f1e983bd] .navbar .navbar__content .navbar__content-left .van-icon,
@@ -1378,7 +1378,7 @@ html:lang(ar) .dropdown__list[data-v-5067ef5e] {
     align-items: center;
     width: 2.98667rem;
     height: 2.93333rem;
-    background: #45080D;
+    background: #1c3295;
     border-radius: .13333rem
 }
 
@@ -1431,7 +1431,7 @@ html:lang(ar) .dropdown__list[data-v-5067ef5e] {
     -webkit-justify-content: space-between;
     justify-content: space-between;
     grid-column: 1/-1;
-    background: #45080D
+    background: #1c3295
 }
 
 .dailySignIn__container-content__wrapper-block:last-of-type .lastImage[data-v-f1e983bd] {

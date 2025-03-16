@@ -1063,7 +1063,7 @@ textarea {
     width: 100%;
     line-height: 1.06667rem;
     border-radius: .13333rem;
-    background: var(--darkBg, #45080D)
+    background: var(--darkBg, #1c3295)
 }
 
 .ar-searchbar__selector>div:first-of-type {
@@ -1516,7 +1516,7 @@ textarea {
 }
 
 .van-calendar .van-calendar__header {
-    background: #45080D;
+    background: #1c3295;
     color: var(--text_color_L1)
 }
 
@@ -1560,7 +1560,7 @@ textarea {
     --icon1: rgba(7, 221, 209, .6);
     --icon2: rgba(7, 221, 209, .3);
     --van-sidebar-text-color: var(--main-color);
-    --van-picker-background: #45080D;
+    --van-picker-background: #1c3295;
     --van-picker-mask-color: linear-gradient(180deg, rgba(32, 29, 43, .9), rgba(32, 29, 43, .4)), linear-gradient(0deg, rgba(32, 29, 43, .9), rgba(32, 29, 43, .4));
     --van-picker-option-text-color: var(--text_color_L2);
     --van-picker-confirm-action-color: var(--main-color);
@@ -1570,14 +1570,14 @@ textarea {
     --van-field-input-text-color: var(--text_color_L1);
     --van-radio-checked-icon-color: var(--main-color);
     --van-grid-item-content-background: var(--bg_color_L1) --van-text-color: var(--text_color_L1);
-    --van-dialog-background: #45080D;
+    --van-dialog-background: #1c3295;
     --van-circle-color: var(--main-color);
     --van-calendar-background: var(--bg_color_L1);
     --van-calendar-range-edge-background: var(--main-color);
     --van-radio-label-color: var(--text_color_L2);
-    --van-cell-background: #45080D;
+    --van-cell-background: #1c3295;
     --van-button-default-background: var(--main_gradient-color);
-    --van-popover-light-background: #45080D;
+    --van-popover-light-background: #1c3295;
     --van-circle-layer-color: var(--bg_color_L3);
     --van-dialog-confirm-button-text-color: var(--text_color_L1);
     --van-dialog-has-title-message-text-color: var(--text_color_L2)
@@ -1627,7 +1627,7 @@ textarea {
 }
 
 .navbar.lottery .navbar-fixed[data-v-12a80a3e] {
-    background: #45080D
+    background: #1c3295
 }
 
 .navbar.lottery .navbar-fixed .navbar__content-left .van-icon[data-v-12a80a3e],
@@ -1636,7 +1636,7 @@ textarea {
 }
 
 .navbar.main .navbar-fixed[data-v-12a80a3e] {
-    background: var(--light-main_gradient-color, #45080D)
+    background: var(--light-main_gradient-color, #1c3295)
 }
 
 .navbar.main .navbar-fixed .navbar__content-left .van-icon[data-v-12a80a3e],

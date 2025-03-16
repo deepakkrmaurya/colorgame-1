@@ -1473,7 +1473,7 @@ canvas[data-v-2c426ecf] {
     position: relative;
     padding: .57333rem .24rem .33333rem;
     border-radius: .21333rem;
-    background: #45080D;
+    background: #1a10aa;
     margin-bottom: .66667rem
 }
 
@@ -1526,7 +1526,7 @@ canvas[data-v-2c426ecf] {
     color: #fff;
     font-size: .34667rem;
     line-height: 1.33333rem;
-    background: linear-gradient(94deg, rgba(75,0,0,1) 0%, rgba(121,0,0,1) 100%);
+    background: linear-gradient(94deg, rgb(26 16 170) 0%, rgb(6 5 5) 100%);
     border-radius: .21333rem .21333rem 0 0;
     text-align: center
 }
@@ -1542,13 +1542,13 @@ canvas[data-v-2c426ecf] {
     display: -webkit-flex;
     display: flex;
     width: calc(100% + .01333rem);
-    background-color: #45080D;
+    background-color: #3127bf;
     margin: 0 -.01333rem;
     color: var(--text_color_L2)
 }
 
 .promotion-page .promotion-mian .promotion-grade-tr[data-v-baf81808]:nth-child(odd) {
-    background: #2F0101
+    background: #051c87;
 }
 
 .promotion-page .promotion-mian .promotion-grade-tr .item[data-v-baf81808] {
@@ -1890,7 +1890,7 @@ canvas[data-v-2c426ecf] {
 }
 
 .x-page .tabs[data-v-a6a0c110] {
-    background: #45080D;
+    background: #1c3295;
     margin-left: -.13333rem;
     width: calc(100% + .13333rem)
 }
@@ -1942,7 +1942,7 @@ canvas[data-v-2c426ecf] {
 }
 
 .x-page-list .item[data-v-a6a0c110] {
-    background-color: #45080D;
+    background-color: #1c3295;
     margin-bottom: .26667rem;
     padding: .26667rem;
     border-radius: .26667rem
@@ -2240,7 +2240,7 @@ html:lang(ar) .x-page-list .item .box .li .img[data-v-a6a0c110] {
 [data-v-221aa0df] .footer-tabBar .van-tabs__nav--card .van-tab--card {
     height: 100%;
     padding: 0 .13333rem;
-    background: #45080D !important;
+    background: #1c3295 !important;
     font-weight: 400;
     font-size: .34667rem;
     color: var(--text_color_L2) !important;
@@ -2710,7 +2710,7 @@ html:lang(ar) .x-page-list .item .box .li .img[data-v-a6a0c110] {
 }
 
 .TeamReport__C-body-item[data-v-10d1559c] {
-    background: #45080D;
+    background: #1c3295;
     box-shadow: var(--BoxShadowColor-9);
     border-radius: .13333rem;
     padding: 0 .26667rem
