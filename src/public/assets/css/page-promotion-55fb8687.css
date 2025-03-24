@@ -928,7 +928,7 @@ canvas[data-v-2c426ecf] {
 .myInvitation__container-searchbar__selector-dropdown
   li.selected[data-v-4e84c70a] {
   color: var(--textW);
-  background-color: var(--norm_red-color);
+  background-color: #fcef9f;;
 }
 .myInvitation__container-searchbar__selector.active
   > div:first-of-type
@@ -1155,7 +1155,7 @@ canvas[data-v-2c426ecf] {
 .myReceive__container-searchbar__selector-dropdown
   li.selected[data-v-9eaff79d] {
   color: var(--textW);
-  background-color: var(--norm_red-color);
+  background-color: #fcef9f;;
 }
 .myReceive__container-searchbar__selector.active
   > div:first-of-type
@@ -1397,7 +1397,7 @@ canvas[data-v-2c426ecf] {
   .promotion-box
   .promotion-txt
   .txt[data-v-baf81808] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .promotion-page .promotion-mian .promotion-box[data-v-baf81808]:nth-of-type(6) {
   margin-bottom: 0;
@@ -1558,7 +1558,7 @@ canvas[data-v-2c426ecf] {
   margin-right: 0.72rem;
 }
 .promotionShare__container-slogan p span[data-v-3b74cce6] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-weight: 700;
 }
 .promotionShare__container-buttons[data-v-3b74cce6] {
@@ -2222,7 +2222,7 @@ html:lang(ar) .x-page-list .item .box .li .img[data-v-a6a0c110] {
   color: var(--norm_green-color);
 }
 .partner-item span.money[data-v-28c19aaa] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.45333rem;
   font-weight: bolder;
 }
@@ -3204,7 +3204,7 @@ html:lang(ar) .TeamReportDetail__C-body-item[data-v-ede350d4]:before {
   line-height: 0.37333rem;
 }
 .invitation-item .status[data-v-09881eb5] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.37333rem;
   font-style: normal;
   font-weight: 400;

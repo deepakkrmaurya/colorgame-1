@@ -325,7 +325,7 @@
 .item[data-v-277c60ca] .right .head>div.amount,
 .item[data-v-277c60ca] .right .foot>div.amount {
     background: #fff;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-weight: 700;
     text-align: center
 }
@@ -649,7 +649,7 @@
 }
 
 .activity-wrapper .dialog-wrapper .dialog-title span[data-v-4a7709f3] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-weight: 700;
     font-size: .48rem
 }
@@ -1610,7 +1610,7 @@ html:lang(ar) .dropdown__list[data-v-5067ef5e] {
 }
 
 .dailySignIn__container .task-banner .banner-title[data-v-d7213382] {
-    margin-top: .4rem;
+    margin-top: 1rem;
     margin-bottom: .13333rem;
     font-size: .48rem;
     color: #fff;
@@ -1628,7 +1628,8 @@ html:lang(ar) .dropdown__list[data-v-5067ef5e] {
     -webkit-flex-direction: column;
     flex-direction: column;
     width: 5.6rem;
-    line-height: .32rem
+    line-height: .32rem;
+    padding:15px;
 }
 
 .dailySignIn__container .task-panel[data-v-d7213382] {
@@ -1711,7 +1712,7 @@ html:lang(ar) .dropdown__list[data-v-5067ef5e] {
 }
 
 .dailySignIn__container .task-panel .task-item-header .headerR[data-v-d7213382] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .37333rem
 }
 
@@ -1802,7 +1803,7 @@ html:lang(ar) .dailySignIn__container .task-panel .task-item-type .type-title[da
 }
 
 .dailySignIn__container .task-panel .task-item-type .type-tip[data-v-d7213382] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .37333rem;
     font-weight: 400;
     margin-left: .26667rem
@@ -2222,7 +2223,7 @@ html:lang(ar) .rule>div[data-v-b64fa971]:not(.head):before {
 }
 
 .package-time[data-v-82bb7bc5] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .42667rem;
     font-style: normal;
     font-weight: 700;
@@ -2309,7 +2310,7 @@ html:lang(ar) .rule>div[data-v-b64fa971]:not(.head):before {
 }
 
 .package-rule ul li span[data-v-82bb7bc5] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .37333rem
 }
 
@@ -2354,7 +2355,7 @@ html:lang(ar) .rule>div[data-v-b64fa971]:not(.head):before {
 .package-tips[data-v-82bb7bc5] {
     background: #1a10aa;
     padding: .26667rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .32rem;
     font-style: normal;
     font-weight: 500;
@@ -3567,7 +3568,7 @@ html:lang(ar) .pointMall__container-products__tabs>div[data-v-aab298ee]:first-of
 }
 
 .turntable-page .turntable-item .count-progress[data-v-8eaaa6b6] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-family: Inter;
     font-size: .4rem;
     font-style: normal;
@@ -3731,7 +3732,7 @@ html:lang(ar) .pointMall__container-products__tabs>div[data-v-aab298ee]:first-of
 }
 
 .turntable-page .turntable-table ul .rotateNum[data-v-8eaaa6b6] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .34667rem;
     font-style: normal;
     font-weight: 500;
@@ -4203,7 +4204,7 @@ html:lang(ar) .pointMall__container-products__tabs>div[data-v-aab298ee]:first-of
 }
 
 .ChampionshipDetail .rankingList .info>span[data-v-a9d644da]:last-of-type {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-weight: 500
 }
 
@@ -4489,7 +4490,7 @@ html:lang(ar) .dailySignInRecord__container-wrapper__content-right img[data-v-f8
 }
 
 .task-record-container .record-panel-item h2 .markRed[data-v-40b81b7f] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     margin-left: .26667rem
 }
 
@@ -4709,7 +4710,7 @@ html:lang(ar) .dailySignInRecord__container-wrapper__content-right img[data-v-f8
 }
 
 .member-package-rule .first-list-item .head .title[data-v-6bb8da12] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .4rem;
     line-height: .48rem
 }
@@ -4735,7 +4736,7 @@ html:lang(ar) .dailySignInRecord__container-wrapper__content-right img[data-v-f8
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     justify-content: center;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .4rem;
     line-height: .48rem;
     margin-top: .5rem
@@ -4790,7 +4791,7 @@ html:lang(ar) .dailySignInRecord__container-wrapper__content-right img[data-v-f8
     align-items: center;
     gap: .06667rem;
     margin-bottom: .26667rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .32rem;
     line-height: .38667rem
 }
@@ -4802,7 +4803,7 @@ html:lang(ar) .dailySignInRecord__container-wrapper__content-right img[data-v-f8
 
 .addAddress__container-warning p[data-v-a7030c57] {
     padding-left: .82667rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .29333rem;
     line-height: .37333rem
 }
@@ -5857,7 +5858,7 @@ html:lang(ar) .dailySignInRecord__container-wrapper__content-right img[data-v-f8
     align-items: center;
     width: 100%;
     padding-block: .06667rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-family: Inter, sans-serif;
     border-radius: .13333rem;
     background: var(--bg_color_L3);
@@ -6045,7 +6046,7 @@ html:lang(ar) .dailySignInRecord__container-wrapper__content-right img[data-v-f8
     -webkit-align-items: center;
     align-items: center;
     height: .53333rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .32rem
 }
 
@@ -8262,7 +8263,7 @@ html:lang(ar) .myOrders__container-item__header-left>div[data-v-588ebc06] {
     align-items: center;
     gap: .04rem;
     margin-bottom: .37333rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .29333rem
 }
 
@@ -8948,7 +8949,7 @@ html:lang(ar) .myOrders__container-item__header-left>div[data-v-588ebc06] {
 
 .turntable-tips[data-v-5165b274] {
     margin: .53333rem 0;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-family: Inter;
     font-size: .34667rem;
     font-style: normal;

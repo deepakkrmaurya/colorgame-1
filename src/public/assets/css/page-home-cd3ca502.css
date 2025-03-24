@@ -4161,7 +4161,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
 }
 
 .select .numList ul li.action[data-v-f88540df] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     background: url(/assets/svg/anbg-dde5866e.svg) no-repeat center center;
     background-size: cover
 }
@@ -4245,7 +4245,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
 .foot .item>span[data-v-fd9536f0] {
     font-size: .4rem;
     font-weight: 700;
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .van-toast[data-v-3557dd80] {
@@ -4496,7 +4496,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
 .x-bet-list .item .number[data-v-3557dd80] {
     font-size: .4rem;
     font-weight: 400;
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .x-bet-list .item .balance[data-v-3557dd80],
@@ -4524,7 +4524,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .29333rem
 }
 
@@ -4552,7 +4552,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
 }
 
 .x-bet-agree .txt[data-v-3557dd80] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .x-bet-foot[data-v-3557dd80] {
@@ -4728,7 +4728,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
     line-height: .93333rem;
     background: url(/assets/svg/anbg-dde5866e.svg) no-repeat center center;
     background-size: cover;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .4rem;
     font-style: normal;
     font-weight: 700
@@ -4889,7 +4889,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
 }
 
 .gameBox .items .state2[data-v-aec2245d] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .gameBox .items .state3[data-v-aec2245d] {
@@ -4910,7 +4910,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
 }
 
 .gameBox .items .red[data-v-aec2245d] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .gameBox .items .item[data-v-aec2245d] {
@@ -5991,7 +5991,7 @@ html:lang(ar) .gameBox .items .info .order .line1[data-v-aec2245d]:before {
 }
 
 [data-v-fa33b84e] .red {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 [data-v-fa33b84e] .van-tabs,
@@ -6976,7 +6976,7 @@ html:lang(ar) .Betting__Popup-agree[data-v-7181abf7] {
 .Betting__Popup-preSaleShow[data-v-7181abf7] {
     margin-left: .34667rem;
     font-size: .32rem;
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .Betting__Popup-PreSale[data-v-7181abf7] {
@@ -7731,7 +7731,7 @@ html:lang(ar) .Trend__C-nav>div[data-v-9d93d892]:after {
 .MyGameRecordList__C-item-l-4[data-v-8bb41fd5],
 .MyGameRecordList__C-item-l-6[data-v-8bb41fd5],
 .MyGameRecordList__C-item-l-8[data-v-8bb41fd5] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .MyGameRecordList__C-item-l-violet[data-v-8bb41fd5] {
@@ -7792,7 +7792,7 @@ html:lang(ar) .Trend__C-nav>div[data-v-9d93d892]:after {
     font-weight: 500;
     font-size: .37333rem;
     height: .96rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
@@ -7814,7 +7814,7 @@ html:lang(ar) .Trend__C-nav>div[data-v-9d93d892]:after {
 }
 
 .MyGameRecordList__C-item-r div[data-v-8bb41fd5] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     border: .01333rem solid var(--norm_red-color);
     border-radius: .13333rem;
     height: .48rem;
@@ -7854,7 +7854,7 @@ html:lang(ar) .Trend__C-nav>div[data-v-9d93d892]:after {
 }
 
 .MyGameRecordList__C-inlineB.redColor[data-v-8bb41fd5] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .MyGameRecordList__C-inlineB.purpleColor[data-v-8bb41fd5] {
@@ -7911,7 +7911,7 @@ html:lang(ar) .Trend__C-nav>div[data-v-9d93d892]:after {
 }
 
 .MyGameRecordList__C-detail-line .red[data-v-8bb41fd5] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .MyGameRecordList__C-detail-line .green[data-v-8bb41fd5] {
@@ -8016,7 +8016,7 @@ html:lang(ar) .Trend__C-nav>div[data-v-9d93d892]:after {
 
 .MyGameRecordList__C-detail-line .line1 .btn.actionRed[data-v-8bb41fd5] {
     color: var(--text_color_L1);
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .MyGameRecordList__C-detail-line .line1 .btn.actionGreen[data-v-8bb41fd5] {
@@ -8026,7 +8026,7 @@ html:lang(ar) .Trend__C-nav>div[data-v-9d93d892]:after {
 
 .MyGameRecordList__C-detail-line .line1 .btn.actionRedGreen[data-v-8bb41fd5] {
     color: var(--text_color_L1);
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -8042,7 +8042,7 @@ html:lang(ar) .Trend__C-nav>div[data-v-9d93d892]:after {
 }
 
 .MyGameRecordList__C-item-l-O[data-v-8bb41fd5] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .MyGameRecordList__C-item-l-E[data-v-8bb41fd5] {
@@ -8895,7 +8895,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 .MyGameRecordList__C-item-l-4[data-v-a5ef3154],
 .MyGameRecordList__C-item-l-6[data-v-a5ef3154],
 .MyGameRecordList__C-item-l-8[data-v-a5ef3154] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .MyGameRecordList__C-item-l-violet[data-v-a5ef3154] {
@@ -8956,7 +8956,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
     font-weight: 500;
     font-size: .37333rem;
     height: .96rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
@@ -8978,7 +8978,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 }
 
 .MyGameRecordList__C-item-r div[data-v-a5ef3154] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     border: .01333rem solid var(--norm_red-color);
     border-radius: .13333rem;
     height: .48rem;
@@ -9018,7 +9018,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 }
 
 .MyGameRecordList__C-inlineB.redColor[data-v-a5ef3154] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .MyGameRecordList__C-inlineB.purpleColor[data-v-a5ef3154] {
@@ -9075,7 +9075,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 }
 
 .MyGameRecordList__C-detail-line .red[data-v-a5ef3154] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .MyGameRecordList__C-detail-line .green[data-v-a5ef3154] {
@@ -9170,7 +9170,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 
 .MyGameRecordList__C-detail-line .line1 .btn.actionRed[data-v-a5ef3154] {
     color: var(--text_color_L1);
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .MyGameRecordList__C-detail-line .line1 .btn.actionGreen[data-v-a5ef3154] {
@@ -9180,7 +9180,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 
 .MyGameRecordList__C-detail-line .line1 .btn.actionRedGreen[data-v-a5ef3154] {
     color: var(--text_color_L1);
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -9466,7 +9466,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 .MyGameRecordList__C-item-l-4[data-v-2faec5cb],
 .MyGameRecordList__C-item-l-6[data-v-2faec5cb],
 .MyGameRecordList__C-item-l-8[data-v-2faec5cb] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .MyGameRecordList__C-item-l-violet[data-v-2faec5cb] {
@@ -9527,7 +9527,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
     font-weight: 500;
     font-size: .37333rem;
     height: .96rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     display: -webkit-box;
     display: -webkit-flex;
     display: flex;
@@ -9549,7 +9549,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 }
 
 .MyGameRecordList__C-item-r div[data-v-2faec5cb] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     border: .01333rem solid var(--norm_red-color);
     border-radius: .13333rem;
     height: .48rem;
@@ -9589,7 +9589,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 }
 
 .MyGameRecordList__C-inlineB.redColor[data-v-2faec5cb] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .MyGameRecordList__C-inlineB.purpleColor[data-v-2faec5cb] {
@@ -9646,7 +9646,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 }
 
 .MyGameRecordList__C-detail-line .red[data-v-2faec5cb] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .MyGameRecordList__C-detail-line .green[data-v-2faec5cb] {
@@ -9751,7 +9751,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 
 .MyGameRecordList__C-detail-line .line1 .btn.actionRed[data-v-2faec5cb] {
     color: var(--text_color_L1);
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .MyGameRecordList__C-detail-line .line1 .btn.actionGreen[data-v-2faec5cb] {
@@ -9761,7 +9761,7 @@ html:lang(ar) .WinningTip__C-body-l4[data-v-e05c7c66] {
 
 .MyGameRecordList__C-detail-line .line1 .btn.actionRedGreen[data-v-2faec5cb] {
     color: var(--text_color_L1);
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -12640,7 +12640,7 @@ table[data-v-ca8cfc1e] {
 
 .MyGameRecordList__C .MyGameRecordList__C-item .MyGameRecordList__C-item-m .MyGameRecordList__C-item-m-bottom[data-v-8073d5d0] {
     width: 3.45333rem;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-family: Inter;
     font-size: .29333rem;
     font-style: normal;
@@ -12768,7 +12768,7 @@ html:lang(ar) .MyGameRecordList__C .MyGameRecordList__C-detail .detail_item .ite
     text-align: center;
     line-height: .42667rem;
     font-size: .29333rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: var(--LotteryBingoTextColor);
     margin: 0 .02667rem
 }
@@ -12778,7 +12778,7 @@ html:lang(ar) .MyGameRecordList__C .MyGameRecordList__C-detail .detail_item .ite
 }
 
 .MyGameRecordList__C .MyGameRecordList__C-detail .detail_item:last-child .item_result[data-v-8073d5d0] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .32rem;
     font-style: normal;
     font-weight: 400;
@@ -13089,7 +13089,7 @@ html:lang(ar) .Betting__Popup-agree[data-v-6c7a1db6] {
 .Betting__Popup-preSaleShow[data-v-6c7a1db6] {
     margin-left: .34667rem;
     font-size: .32rem;
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .Betting__Popup-PreSale[data-v-6c7a1db6] {
@@ -13243,7 +13243,7 @@ html:lang(ar) .changLong__C-bet-l .titel[data-v-91d808d9] {
 }
 
 .changLong__C-bet-l .num .time[data-v-91d808d9] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .changLong__C-bet-l .other[data-v-91d808d9] {
@@ -13287,7 +13287,7 @@ html:lang(ar) .changLong__C-bet-l .titel[data-v-91d808d9] {
 
 .changLong__C-bet-l .other .gameResult.bg-red[data-v-91d808d9],
 .changLong__C-bet-l .other .gameResult.bg-E[data-v-91d808d9] {
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: var(--text_color_L4)
 }
 
@@ -14091,7 +14091,7 @@ html:lang(ar) .K3TL__C-time[data-v-75b35bf5] {
 }
 
 .K3B__C-bettingList>div.numC[data-v-ed0c8e79] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .K3B__C-bettingList>div.numD[data-v-ed0c8e79] {
@@ -14550,7 +14550,7 @@ html:lang(ar) .K3TL__C-time[data-v-75b35bf5] {
 }
 
 .Betting__Popup-type1 .list>div.red[data-v-5f002ad4] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .Betting__Popup-type1 .list>div.green[data-v-5f002ad4] {
@@ -14571,11 +14571,11 @@ html:lang(ar) .K3TL__C-time[data-v-75b35bf5] {
 }
 
 .Betting__Popup-type1 .list>div.numC[data-v-5f002ad4] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .Betting__Popup-type1 .list>div.numD[data-v-5f002ad4] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .Betting__Popup-type2[data-v-5f002ad4] {
@@ -14786,7 +14786,7 @@ html:lang(ar) .Betting__Popup-agree[data-v-5f002ad4] {
 .Betting__Popup-preSaleShow[data-v-5f002ad4] {
     margin-left: .34667rem;
     font-size: .32rem;
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .Betting__Popup-PreSale[data-v-5f002ad4] {
@@ -18321,7 +18321,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-b37345b
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRed[data-v-b37345b8] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionGreen[data-v-b37345b8] {
@@ -18331,7 +18331,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-b37345b
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRedGreen[data-v-b37345b8] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -18342,7 +18342,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-b37345b
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -18640,7 +18640,7 @@ html:lang(ar) .MyGameRecord__C-head-moreB[data-v-b37345b8]:after {
     font-size: .32rem;
     border: none;
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .li.circle-black[data-v-b37345b8] {
@@ -18731,7 +18731,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b37345b8] {
 }
 
 .list .hb .item .info .issueName .state.red[data-v-b37345b8] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .item .info .issueName .state.green[data-v-b37345b8] {
@@ -18750,7 +18750,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b37345b8] {
 }
 
 .list .hb .item .info .money .fail[data-v-b37345b8] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .list .hb .item .info .money .success[data-v-b37345b8] {
@@ -18873,7 +18873,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b37345b8] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRed[data-v-b37345b8] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .details .detailLi .Bet-box ul li.actionGreen[data-v-b37345b8] {
@@ -18883,7 +18883,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b37345b8] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRedGreen[data-v-b37345b8] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -18894,7 +18894,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b37345b8] {
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -20489,7 +20489,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-fdfc55f
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRed[data-v-fdfc55f4] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionGreen[data-v-fdfc55f4] {
@@ -20499,7 +20499,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-fdfc55f
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRedGreen[data-v-fdfc55f4] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -20510,7 +20510,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-fdfc55f
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -20808,7 +20808,7 @@ html:lang(ar) .MyGameRecord__C-head-moreB[data-v-fdfc55f4]:after {
     font-size: .32rem;
     border: none;
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .li.circle-black[data-v-fdfc55f4] {
@@ -20899,7 +20899,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-fdfc55f4] {
 }
 
 .list .hb .item .info .issueName .state.red[data-v-fdfc55f4] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .item .info .issueName .state.green[data-v-fdfc55f4] {
@@ -20918,7 +20918,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-fdfc55f4] {
 }
 
 .list .hb .item .info .money .fail[data-v-fdfc55f4] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .list .hb .item .info .money .success[data-v-fdfc55f4] {
@@ -21041,7 +21041,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-fdfc55f4] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRed[data-v-fdfc55f4] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .details .detailLi .Bet-box ul li.actionGreen[data-v-fdfc55f4] {
@@ -21051,7 +21051,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-fdfc55f4] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRedGreen[data-v-fdfc55f4] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -21062,7 +21062,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-fdfc55f4] {
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -22657,7 +22657,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-68c3df6
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRed[data-v-68c3df62] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionGreen[data-v-68c3df62] {
@@ -22667,7 +22667,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-68c3df6
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRedGreen[data-v-68c3df62] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -22678,7 +22678,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-68c3df6
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -22976,7 +22976,7 @@ html:lang(ar) .MyGameRecord__C-head-moreB[data-v-68c3df62]:after {
     font-size: .32rem;
     border: none;
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .li.circle-black[data-v-68c3df62] {
@@ -23067,7 +23067,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-68c3df62] {
 }
 
 .list .hb .item .info .issueName .state.red[data-v-68c3df62] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .item .info .issueName .state.green[data-v-68c3df62] {
@@ -23086,7 +23086,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-68c3df62] {
 }
 
 .list .hb .item .info .money .fail[data-v-68c3df62] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .list .hb .item .info .money .success[data-v-68c3df62] {
@@ -23209,7 +23209,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-68c3df62] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRed[data-v-68c3df62] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .details .detailLi .Bet-box ul li.actionGreen[data-v-68c3df62] {
@@ -23219,7 +23219,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-68c3df62] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRedGreen[data-v-68c3df62] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -23230,7 +23230,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-68c3df62] {
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -25229,7 +25229,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-44e97c4
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRed[data-v-44e97c4d] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionGreen[data-v-44e97c4d] {
@@ -25239,7 +25239,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-44e97c4
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRedGreen[data-v-44e97c4d] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -25250,7 +25250,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-44e97c4
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -25548,7 +25548,7 @@ html:lang(ar) .MyGameRecord__C-head-moreB[data-v-44e97c4d]:after {
     font-size: .32rem;
     border: none;
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .li.circle-black[data-v-44e97c4d] {
@@ -25639,7 +25639,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-44e97c4d] {
 }
 
 .list .hb .item .info .issueName .state.red[data-v-44e97c4d] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .item .info .issueName .state.green[data-v-44e97c4d] {
@@ -25658,7 +25658,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-44e97c4d] {
 }
 
 .list .hb .item .info .money .fail[data-v-44e97c4d] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .list .hb .item .info .money .success[data-v-44e97c4d] {
@@ -25781,7 +25781,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-44e97c4d] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRed[data-v-44e97c4d] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .details .detailLi .Bet-box ul li.actionGreen[data-v-44e97c4d] {
@@ -25791,7 +25791,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-44e97c4d] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRedGreen[data-v-44e97c4d] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -25802,7 +25802,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-44e97c4d] {
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -26413,14 +26413,14 @@ html:lang(ar) .WinningTip__C[data-v-eb0f5940] {
 .WinningTip__C-body-l2.type3>div[data-v-eb0f5940],
 .WinningTip__C-body-l2.type7>div[data-v-eb0f5940],
 .WinningTip__C-body-l2.type9>div[data-v-eb0f5940] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .WinningTip__C-body-l2.type2>div[data-v-eb0f5940],
 .WinningTip__C-body-l2.type4>div[data-v-eb0f5940],
 .WinningTip__C-body-l2.type6>div[data-v-eb0f5940],
 .WinningTip__C-body-l2.type8>div[data-v-eb0f5940] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .WinningTip__C-body-l5[data-v-eb0f5940] {
@@ -26450,7 +26450,7 @@ html:lang(ar) .WinningTip__C[data-v-eb0f5940] {
     text-align: center;
     font-size: .34667rem;
     font-weight: 700;
-    color: var(--norm_red-color);
+   color: #fcef9f;
     background: url(/assets/svg/resultanbg-bfa48a61.svg) no-repeat center center;
     background-size: cover
 }
@@ -27695,7 +27695,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-b1e1402
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRed[data-v-b1e14027] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionGreen[data-v-b1e14027] {
@@ -27705,7 +27705,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-b1e1402
 
 .GameRecord__C-body .details .detailLi .Bet-box ul li.actionRedGreen[data-v-b1e14027] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -27716,7 +27716,7 @@ html:lang(ar) .Betting__C-bet .tit-list .check.action .check-item[data-v-b1e1402
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -28014,7 +28014,7 @@ html:lang(ar) .MyGameRecord__C-head-moreB[data-v-b1e14027]:after {
     font-size: .32rem;
     border: none;
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .li.circle-black[data-v-b1e14027] {
@@ -28105,7 +28105,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b1e14027] {
 }
 
 .list .hb .item .info .issueName .state.red[data-v-b1e14027] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .item .info .issueName .state.green[data-v-b1e14027] {
@@ -28124,7 +28124,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b1e14027] {
 }
 
 .list .hb .item .info .money .fail[data-v-b1e14027] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .list .hb .item .info .money .success[data-v-b1e14027] {
@@ -28247,7 +28247,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b1e14027] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRed[data-v-b1e14027] {
     color: #fff;
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .list .hb .details .detailLi .Bet-box ul li.actionGreen[data-v-b1e14027] {
@@ -28257,7 +28257,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b1e14027] {
 
 .list .hb .details .detailLi .Bet-box ul li.actionRedGreen[data-v-b1e14027] {
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     background-image: var(--linearGradien-21)
 }
 
@@ -28268,7 +28268,7 @@ html:lang(ar) .list .hb .qiu .line-canvas[data-v-b1e14027] {
     border-radius: .04rem;
     padding: 0 .13333rem;
     font-size: .16rem;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;;
     color: #fff
 }
 
@@ -30243,7 +30243,7 @@ html:lang(ar) .TimeLeft__C-num[data-v-3e4c6499] {
 .Betting__Popup-4 .bgcolor[data-v-7f36fe93],
 .Betting__Popup-6 .bgcolor[data-v-7f36fe93],
 .Betting__Popup-8 .bgcolor[data-v-7f36fe93] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .Betting__Popup-10 .Betting__Popup-head[data-v-7f36fe93],
@@ -30255,7 +30255,7 @@ html:lang(ar) .TimeLeft__C-num[data-v-3e4c6499] {
 }
 
 .Betting__Popup-0 .bgcolor[data-v-7f36fe93] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .Betting__Popup-0 .Betting__Popup-head[data-v-7f36fe93] {
@@ -30346,7 +30346,7 @@ html:lang(ar) .Betting__Popup-agree[data-v-7f36fe93] {
 .Betting__Popup-preSaleShow[data-v-7f36fe93] {
     margin-left: .34667rem;
     font-size: .32rem;
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .Betting__Popup-PreSale[data-v-7f36fe93] {
@@ -30831,7 +30831,7 @@ html:lang(ar) .Betting__C-popup-head[data-v-4aca9bd1]:before {
 .Betting__C-popup-4 .bgcolor[data-v-4aca9bd1],
 .Betting__C-popup-6 .bgcolor[data-v-4aca9bd1],
 .Betting__C-popup-8 .bgcolor[data-v-4aca9bd1] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .Betting__C-popup-10 .Betting__C-popup-head[data-v-4aca9bd1],
@@ -30843,7 +30843,7 @@ html:lang(ar) .Betting__C-popup-head[data-v-4aca9bd1]:before {
 }
 
 .Betting__C-popup-0 .bgcolor[data-v-4aca9bd1] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .Betting__C-popup-0 .Betting__C-popup-head[data-v-4aca9bd1] {
@@ -30851,7 +30851,7 @@ html:lang(ar) .Betting__C-popup-head[data-v-4aca9bd1]:before {
 }
 
 .Betting__C-popup-5 .bgcolor[data-v-4aca9bd1] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .Betting__C-popup-5 .Betting__C-popup-head[data-v-4aca9bd1] {
@@ -31013,7 +31013,7 @@ html:lang(ar) .Betting__C-popup-head[data-v-4aca9bd1]:before {
 }
 
 .GameRecord__C-body .defaultColor[data-v-481307ec] {
-    color: var(--norm_red-color)
+    color: #fcef9f;
 }
 
 .GameRecord__C-body-greenC[data-v-481307ec] {
@@ -31202,7 +31202,7 @@ html:lang(ar) .Betting__C-popup-head[data-v-4aca9bd1]:before {
     text-align: center;
     font-family: Roboto;
     border: .01333rem solid var(--norm_red-color);
-    color: var(--norm_red-color) !important
+    color: #fcef9f; !important
 }
 
 .Trend__C-body1-line+.Trend__C-body1-line[data-v-d485a39d] {
@@ -31308,7 +31308,7 @@ html:lang(ar) .Betting__C-popup-head[data-v-4aca9bd1]:before {
 .Trend__C-body2-Num-item.action8[data-v-d485a39d] {
     border: none;
     color: #fff;
-    background-color: var(--norm_red-color);
+    background-color: #fcef9f;
     position: relative;
     z-index: 10
 }
@@ -31561,7 +31561,7 @@ html:lang(ar) .WinningTip__C[data-v-e44179e3] {
 .WinningTip__C-body-l2.type4>div[data-v-e44179e3],
 .WinningTip__C-body-l2.type6>div[data-v-e44179e3],
 .WinningTip__C-body-l2.type8>div[data-v-e44179e3] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .WinningTip__C-body-l3[data-v-e44179e3] {
@@ -32194,7 +32194,7 @@ html:lang(ar) .WinGo__C-head-more[data-v-5d71c3fd] {
 .GameRecord__C-body .number.num4[data-v-7a795a91],
 .GameRecord__C-body .number.num6[data-v-7a795a91],
 .GameRecord__C-body .number.num8[data-v-7a795a91] {
-    background-color: var(--norm_red-color)
+    background-color: #fcef9f;
 }
 
 .GameRecord__C-body .number.num0[data-v-7a795a91] {
@@ -34038,7 +34038,7 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
 }
 
 .terms-tips[data-v-a3117ed9] {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-family: Inter;
     font-size: .32rem;
     font-weight: 400;

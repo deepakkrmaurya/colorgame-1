@@ -804,7 +804,7 @@ input:focus {
 }
 
 .msg-window .msg-footer {
-    color: var(--norm_red-color);
+   color: #fcef9f;
     font-size: .32rem;
     padding-top: .32rem
 }

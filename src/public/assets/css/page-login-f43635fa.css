@@ -208,7 +208,7 @@
   border: 0.01333rem solid var(--Dividing-line_color);
 }
 .popup-content .info .txt[data-v-96e240c3] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.32rem;
   line-height: 0.53333rem;
   white-space: normal;
@@ -225,7 +225,7 @@
 }
 .popup-content .box .lab[data-v-96e240c3] {
   margin-top: 0.26667rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   white-space: normal;
 }
 .popup-content .box .lab .icon[data-v-96e240c3] {
@@ -589,7 +589,7 @@
   -webkit-align-items: center;
   align-items: center;
   margin-top: 0.24rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .verifyInput__container-tip i[data-v-c17848a2] {
   font-size: 0.48rem;
@@ -719,7 +719,7 @@
   margin-bottom: 0.4rem;
   word-break: break-all;
   white-space: normal;
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .RpwdPopup-foot[data-v-ab583a3a] {
   display: -webkit-box;
@@ -765,12 +765,12 @@
 .RpwdPopup-errorTip[data-v-ab583a3a] {
   height: 0.48rem;
   line-height: 0.48rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .RpwdPopup-tip[data-v-ab583a3a] {
   margin-top: 0.32rem;
   padding-left: 0.22667rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.32rem;
   display: -webkit-box;
   display: -webkit-flex;
@@ -819,7 +819,7 @@
   margin-bottom: 0.4rem;
   min-height: 0.48rem;
   width: 100%;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   word-break: break-all;
   white-space: normal;
 }
@@ -891,7 +891,7 @@ html:lang(ar) .phoneInput__container-input input[data-v-50aa8bb0] {
 .phoneInput__container-tips[data-v-50aa8bb0] {
   margin-top: 0.32rem;
   padding-left: 0.22667rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.32rem;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1175,7 +1175,7 @@ html:lang(ar) .phoneInput__container-input input[data-v-50aa8bb0] {
   -webkit-align-items: center;
   align-items: center;
   margin-top: 0.24rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .verifyInput__container-tip i[data-v-484b25b1] {
   font-size: 0.48rem;
@@ -1232,7 +1232,7 @@ html:lang(ar) .phoneInput__container-input input[data-v-50aa8bb0] {
   margin-bottom: 0.4rem;
   word-break: break-all;
   white-space: normal;
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .RpwdPopup-foot[data-v-95ce4137] {
   display: -webkit-box;
@@ -1278,12 +1278,12 @@ html:lang(ar) .phoneInput__container-input input[data-v-50aa8bb0] {
 .RpwdPopup-errorTip[data-v-95ce4137] {
   height: 0.48rem;
   line-height: 0.48rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .RpwdPopup-tip[data-v-95ce4137] {
   margin-top: 0.32rem;
   padding-left: 0.22667rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.32rem;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1332,7 +1332,7 @@ html:lang(ar) .phoneInput__container-input input[data-v-50aa8bb0] {
   margin-bottom: 0.4rem;
   min-height: 0.48rem;
   width: 100%;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   word-break: break-all;
   white-space: normal;
 }
@@ -1406,7 +1406,7 @@ html:lang(ar) .phoneInput__container-input input[data-v-50aa8bb0] {
 .emailinput__container-tips[data-v-4499df08] {
   margin-top: 0.32rem;
   padding-left: 0.22667rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.32rem;
   display: -webkit-box;
   display: -webkit-flex;

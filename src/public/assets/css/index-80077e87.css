@@ -703,7 +703,7 @@ input:focus {
   font-size: 0.32rem;
 }
 .msg-window .msg-footer {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.32rem;
   padding-top: 0.32rem;
 }
@@ -960,7 +960,7 @@ textarea {
 }
 .ar-searchbar__selector-dropdown li.selected {
   color: #fff;
-  background-color: var(--norm_red-color);
+  background-color: #fcef9f;
 }
 .ar-searchbar__selector.active {
   z-index: 9;

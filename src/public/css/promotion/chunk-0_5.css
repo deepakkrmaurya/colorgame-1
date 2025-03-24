@@ -159,7 +159,7 @@
 }
 
 .mian .promotion .table .hd[data-v-0ff6946a] {
-  background: #45080D;
+  background: #091b6b;
   /*border-radius:.10667rem;*/
   height: 0.93333rem;
   line-height: 0.93333rem;
@@ -173,7 +173,7 @@
 }
 
 .mian .promotion .table .item .bd[data-v-0ff6946a] {
-  background: #45080D;
+  background: #091b6b;
   height: 0.93333rem;
   border-radius: 6px;
   line-height: 0.93333rem;
@@ -198,7 +198,7 @@
 }
 
 .mian .promotion .table .item .bdshow[data-v-0ff6946a] {
-  background-color: #45080D !important;
+  background-color: #091b6b !important;
   border-radius: 6px !important;
   width: 100%;
   padding: 0.26667rem;

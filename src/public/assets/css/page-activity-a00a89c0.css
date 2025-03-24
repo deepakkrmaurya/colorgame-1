@@ -279,7 +279,7 @@
 .item[data-v-277c60ca] .right .head > div.amount,
 .item[data-v-277c60ca] .right .foot > div.amount {
   background: #fff;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-weight: 700;
   text-align: center;
 }
@@ -594,7 +594,7 @@
   padding: 0 0.16rem;
 }
 .activity-wrapper .dialog-wrapper .dialog-title span[data-v-4a7709f3] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-weight: 700;
   font-size: 0.48rem;
 }
@@ -1577,7 +1577,7 @@ html:lang(ar) .dropdown__list[data-v-5067ef5e] {
   .task-panel
   .task-item-header
   .headerR[data-v-d7213382] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.37333rem;
 }
 .dailySignIn__container
@@ -1694,7 +1694,7 @@ html:lang(ar)
   background-position: right;
 }
 .dailySignIn__container .task-panel .task-item-type .type-tip[data-v-d7213382] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.37333rem;
   font-weight: 400;
   margin-left: 0.26667rem;
@@ -2082,7 +2082,7 @@ html:lang(ar) .rule > div[data-v-b64fa971]:not(.head):before {
   margin-right: 0.13333rem;
 }
 .package-time[data-v-82bb7bc5] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.42667rem;
   font-style: normal;
   font-weight: 700;
@@ -2161,7 +2161,7 @@ html:lang(ar) .rule > div[data-v-b64fa971]:not(.head):before {
   width: 2.66667rem;
 }
 .package-rule ul li span[data-v-82bb7bc5] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.37333rem;
 }
 .package-rule-title[data-v-82bb7bc5] {
@@ -2201,7 +2201,7 @@ html:lang(ar) .rule > div[data-v-b64fa971]:not(.head):before {
 .package-tips[data-v-82bb7bc5] {
   background: var(--bg_color_L2);
   padding: 0.26667rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.32rem;
   font-style: normal;
   font-weight: 500;
@@ -3285,7 +3285,7 @@ html:lang(ar)
   line-height: 0.4rem;
 }
 .turntable-page .turntable-item .count-progress[data-v-8eaaa6b6] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-family: Inter;
   font-size: 0.4rem;
   font-style: normal;
@@ -3432,7 +3432,7 @@ html:lang(ar)
   color: var(--text_color_L1);
 }
 .turntable-page .turntable-table ul .rotateNum[data-v-8eaaa6b6] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.34667rem;
   font-style: normal;
   font-weight: 500;
@@ -3487,7 +3487,7 @@ html:lang(ar)
   top: -0.4rem;
 }
 .turntable-page .rewardWin[data-v-8eaaa6b6] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .van-toast[data-v-5c0f1c84] {
   word-break: break-word !important;
@@ -3600,7 +3600,7 @@ html:lang(ar)
 .rule .con > div[data-v-5c0f1c84] span,
 .rule .con > p span[data-v-5c0f1c84],
 .rule .con > p[data-v-5c0f1c84] span {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .rule .con p[data-v-5c0f1c84] {
   position: relative;
@@ -3789,7 +3789,7 @@ html:lang(ar)
   color: var(--text_color_L1);
 }
 .ChampionshipDetail .ranking .amount > span[data-v-a9d644da]:last-of-type {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .ChampionshipDetail .rankingList[data-v-a9d644da] {
   margin-top: 0.2rem;
@@ -3862,7 +3862,7 @@ html:lang(ar)
   -webkit-text-fill-color: transparent;
 }
 .ChampionshipDetail .rankingList .info > span[data-v-a9d644da]:last-of-type {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-weight: 500;
 }
 .ChampionshipDetail .rankingList .info[data-v-a9d644da]:nth-child(odd) {
@@ -4109,7 +4109,7 @@ html:lang(ar)
   color: var(--text_color_L2);
 }
 .task-record-container .record-panel-item h2 .markRed[data-v-40b81b7f] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   margin-left: 0.26667rem;
 }
 .task-record-container .record-panel-item div[data-v-40b81b7f] {
@@ -4154,7 +4154,7 @@ html:lang(ar)
   height: 80%;
 }
 .member-package-rule[data-v-6fdd0edc] .number {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .member-package-rule .first-list-item[data-v-6fdd0edc] {
   padding: 0.26667rem;
@@ -4267,7 +4267,7 @@ html:lang(ar)
   padding: 0.32rem;
 }
 .member-package-rule[data-v-6bb8da12] .number {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .member-package-rule .first-list-item[data-v-6bb8da12] {
   padding: 0.26667rem;
@@ -4283,7 +4283,7 @@ html:lang(ar)
   justify-content: start !important;
 }
 .member-package-rule .first-list-item.space .head .title[data-v-6bb8da12] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .member-package-rule .first-list-item .head[data-v-6bb8da12] {
   display: -webkit-box;
@@ -4295,7 +4295,7 @@ html:lang(ar)
   margin-bottom: 0.18667rem;
 }
 .member-package-rule .first-list-item .head .title[data-v-6bb8da12] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.4rem;
   line-height: 0.48rem;
 }
@@ -4305,7 +4305,7 @@ html:lang(ar)
   margin-bottom: 0.26667rem;
 }
 .member-package-rule .first-list-item .description .number[data-v-6bb8da12] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .member-package-rule-bonus .table-head[data-v-6bb8da12] {
   padding-top: 0.5rem;
@@ -4317,7 +4317,7 @@ html:lang(ar)
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   justify-content: center;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.4rem;
   line-height: 0.48rem;
   margin-top: 0.5rem;
@@ -4365,7 +4365,7 @@ html:lang(ar)
   align-items: center;
   gap: 0.06667rem;
   margin-bottom: 0.26667rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.32rem;
   line-height: 0.38667rem;
 }
@@ -4375,7 +4375,7 @@ html:lang(ar)
 }
 .addAddress__container-warning p[data-v-a7030c57] {
   padding-left: 0.82667rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.29333rem;
   line-height: 0.37333rem;
 }
@@ -5207,7 +5207,7 @@ html:lang(ar)
 }
 .lotteryDetail__container-item__footer-participants__item-header
   span.me[data-v-c886dc4c] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .lotteryDetail__container-item__footer-participants__item-header
   span[data-v-c886dc4c]:last-of-type {
@@ -5377,7 +5377,7 @@ html:lang(ar)
   align-items: center;
   width: 100%;
   padding-block: 0.06667rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-family: Inter, sans-serif;
   border-radius: 0.13333rem;
   background: var(--bg_color_L3);
@@ -5576,7 +5576,7 @@ html:lang(ar)
   -webkit-align-items: center;
   align-items: center;
   height: 0.53333rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.32rem;
 }
 .lotteryDetail__container
@@ -7680,7 +7680,7 @@ html:lang(ar) .myOrders__container-item__header-left > div[data-v-588ebc06] {
   align-items: center;
   gap: 0.04rem;
   margin-bottom: 0.37333rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.29333rem;
 }
 .redeem__container-actionSheet__note i[data-v-f0d9c3bb] {
@@ -8255,7 +8255,7 @@ html:lang(ar) .myOrders__container-item__header-left > div[data-v-588ebc06] {
   font-size: 0.34667rem;
 }
 .turntable-detail[data-v-938fabbd] .rule span {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .van-toast[data-v-5165b274] {
   word-break: break-word !important;
@@ -8321,11 +8321,11 @@ html:lang(ar) .myOrders__container-item__header-left > div[data-v-588ebc06] {
   color: var(--text_color_L2);
 }
 .turntable-pointRule__body p[data-v-5165b274] span {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .turntable-tips[data-v-5165b274] {
   margin: 0.53333rem 0;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-family: Inter;
   font-size: 0.34667rem;
   font-style: normal;

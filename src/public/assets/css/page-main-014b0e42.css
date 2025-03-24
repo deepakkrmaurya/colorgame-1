@@ -569,7 +569,7 @@
 }
 .userInfo__container .info-dialog-content h4[data-v-5bd44e74] {
   font-size: 0.32rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   padding-left: 0.6rem;
   padding-top: 0.29333rem;
 }
@@ -1617,7 +1617,7 @@ html:lang(ar) .bet-container-lottery-card-info ul li[data-v-811ff882]:after {
   color: var(--norm_green-color);
 }
 .bet-container-lottery-card-info ul li span.fail[data-v-811ff882] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .bet-container-lottery-card-info ul li h2 svg[data-v-811ff882] {
   margin-right: 0.13333rem;
@@ -1778,7 +1778,7 @@ html:lang(ar) .bet-container-lottery-card-info ul li[data-v-811ff882]:after {
   color: var(--norm_green-color);
 }
 .bet-container-lottery-note-box-para .h4_red[data-v-811ff882] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .bet-container-lottery-note-box > div[data-v-811ff882] {
   width: 48%;
@@ -1957,7 +1957,7 @@ html:lang(ar) .bet-container-lottery-card-info ul li[data-v-811ff882]:after {
   color: var(--norm_green-color);
 }
 .bet-container-lottery-card-info ul li span.fail[data-v-893cf551] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .bet-container-lottery-card-info ul li h3[data-v-893cf551] {
   display: inline-block;
@@ -2182,7 +2182,7 @@ html:lang(ar) .bet .li .lab[data-v-893cf551]:after {
   color: var(--norm_green-color);
 }
 .bet-container-lottery-note-box-para .h4_red[data-v-893cf551] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .bet-container-lottery-note-box > div[data-v-893cf551] {
   width: 48%;
@@ -2360,7 +2360,7 @@ html:lang(ar) .bet .li .lab[data-v-893cf551]:after {
   color: #40c592 !important;
 }
 .bet-container .colorF95959[data-v-1d8fbc24] {
-  color: var(--norm_red-color) !important;
+  color: #fcef9f !important;
 }
 .bet-container .color2AAB79[data-v-1d8fbc24] {
   color: var(--norm_green-color) !important;
@@ -2590,7 +2590,7 @@ html:lang(ar) .bet-container-lottery-card-info ul li[data-v-1d8fbc24]:after {
   color: var(--norm_green-color);
 }
 .bet-container-lottery-note-box-para .h4_red[data-v-1d8fbc24] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .bet-container-lottery-note-box > div[data-v-1d8fbc24] {
   width: 48%;
@@ -3516,12 +3516,12 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
 }
 .popup-content .box .lab .icon[data-v-1911143a] {
   font-size: 0.4rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   -webkit-margin-end: 0.13333rem;
   margin-inline-end: 0.13333rem;
 }
 .popup-content .box .lab > span[data-v-1911143a] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .popup-content .box .other[data-v-1911143a] {
   margin-top: 0.26667rem;
@@ -3785,7 +3785,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   color: var(--text_color_L1);
 }
 .bonus-items .detail .num[data-v-b733e3c6] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .bonus-items .detail + .detail[data-v-b733e3c6] {
   margin-top: 0.13333rem;
@@ -3838,7 +3838,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   color: var(--norm_secondary-color);
 }
 .bonus-items .task > div .rechargeval[data-v-b733e3c6] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .bonus-items .task > div .text[data-v-b733e3c6] {
   color: var(--text_color_L2);
@@ -4143,7 +4143,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   .c-row
   .item
   .num.red[data-v-cdf0e578] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .Laundry-page .laundry-page_container .laundry-page_box .btn[data-v-cdf0e578] {
   width: 8.8rem;
@@ -4381,7 +4381,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   .body
   .right
   > p.red[data-v-cdf0e578] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .Laundry-page
   .laundry-page_container
@@ -5611,7 +5611,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
 .StrongBoxRecordCard__container-rale-num[data-v-6cfd8c1d] {
   font-weight: 500;
   font-size: 0.37333rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .StrongBoxRecordCard__container-last[data-v-6cfd8c1d] {
   font-size: 0.32rem;
@@ -5659,7 +5659,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   height: 0.53333rem;
   line-height: 0.53333rem;
   text-align: center;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   background: var(--bg_color_L2, var(--bg_color_L3));
   border-radius: 0.53333rem;
   font-weight: 400;
@@ -5969,7 +5969,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   font-weight: 400;
   font-size: 0.32rem;
   line-height: 0.48rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -5981,7 +5981,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   line-height: 0.48rem;
   font-weight: 400;
   font-size: 0.29333rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
@@ -6028,7 +6028,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   margin-bottom: 0.58667rem;
 }
 .popup__container .betTip span[data-v-002ff529] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .popup__container-numLine[data-v-002ff529] {
   height: 0.8rem;
@@ -6045,7 +6045,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   color: var(--text_color_L1);
 }
 .popup__container-numLine-num.red[data-v-002ff529] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-weight: 500;
 }
 .popup__container-numLine > div[data-v-002ff529] {
@@ -6113,7 +6113,7 @@ html:lang(ar) .gverify-container-content-item-tip svg[data-v-1911143a] {
   border-radius: 0.08rem;
   min-width: 1.06667rem;
   padding: 0 0.2rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   text-align: center;
 }
 .van-toast[data-v-6243ef37] {
@@ -6338,7 +6338,7 @@ html:lang(ar) .Xg-list .item .header .tit[data-v-6243ef37] {
   margin-left: 0.13333rem;
 }
 .Xg-list .item .header .red[data-v-6243ef37] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .Xg-list .item .body[data-v-6243ef37] {
   padding: 0.4rem;
@@ -6436,7 +6436,7 @@ html:lang(ar) .Xg-list .item .header .tit[data-v-6243ef37] {
   margin-bottom: 0.13333rem;
 }
 .Xg-list .item .numbox .citem .num.red[data-v-6243ef37] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .Xg-list .item .numbox .citem .txt[data-v-6243ef37] {
   font-size: 0.34667rem;
@@ -6689,7 +6689,7 @@ html:lang(ar) .Xg-list .item .header .tit[data-v-6243ef37] {
 .gverify-container-content-item-tip[data-v-85031541],
 .gverify-container-footer-item-tip[data-v-85031541] {
   font-size: 0.29333rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .gverify-container-content .footer-wrapper[data-v-85031541],
 .gverify-container-footer .footer-wrapper[data-v-85031541] {
@@ -7075,7 +7075,7 @@ html:lang(ar) .Xg-list .item .header .tit[data-v-6243ef37] {
   color: var(--text_color_L1);
 }
 .Laundry-Record .list .item .body .right > p.red[data-v-34682eef] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .Laundry-Record .list .item .body .right > p.orange[data-v-34682eef] {
   color: var(--norm_secondary-color);
@@ -7380,7 +7380,7 @@ html:lang(ar) .Xg-list .item .header .tit[data-v-6243ef37] {
   background: var(--bg_color_L2);
   border-radius: 0.53333rem;
   font-size: 0.32rem;
-  color: var(--norm_red-color);
+ color: #fcef9f;
   text-align: center;
   margin: 0.4rem auto;
 }
@@ -7463,7 +7463,7 @@ html:lang(ar) .Xg-list .item .header .tit[data-v-6243ef37] {
   margin-bottom: 0.26667rem;
 }
 .StrongBoxAbout__container-detail-container-tip.red[data-v-7b17e822] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .van-toast[data-v-a2f37f81] {
   word-break: break-word !important;
@@ -7787,7 +7787,7 @@ html:lang(ar) .jackpot-rule .title svg[data-v-bc9939e5] {
   color: var(--text_color_L1);
 }
 .jackpot-rule .table-content > div[data-v-bc9939e5]:nth-child(3) {
-  color: var(--norm_red-color);
+ color: #fcef9f;
 }
 .jackpot-rule-owener[data-v-bc9939e5] {
   background: var(--darkBg, var(--bg_color_L2));
@@ -7914,7 +7914,7 @@ html:lang(ar) .jackpot-rule-owener svg[data-v-bc9939e5] {
   line-height: normal;
 }
 .jackpot-star .rowcontent .money[data-v-7c5c25a2] {
-  color: var(--norm_red-color);
+ color: #fcef9f;
   font-size: 0.37333rem;
   font-style: normal;
   font-weight: 500;
