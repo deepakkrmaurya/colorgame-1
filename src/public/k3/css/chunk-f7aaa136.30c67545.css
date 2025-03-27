@@ -285,7 +285,7 @@
 }
 
 .game .page-nav .arr .icon.action[data-v-03b808c2] {
-    color: #ffffff !important
+    color: #000000 !important
 }
 
 .game .page-nav .arr.action[data-v-03b808c2] {
@@ -825,7 +825,7 @@
 .game .content .page-box .last-round>span[data-v-03b808c2] {
     font-size: .37333rem;
     font-weight: 400;
-    color: #8e8e93;
+    color: #ffffff;
     max-width: 2.4rem
 }
 
@@ -863,7 +863,7 @@
     align-items: center;
     font-size: .37333rem;
     font-weight: 400;
-    color: #8e8e93;
+    color: #ffffff;
     margin-bottom: .13333rem
 }
 
@@ -927,7 +927,7 @@
     display: inline-block;
     border-radius: 0.4rem;
     padding: 0 0.4rem;
-    background-image: linear-gradient(90deg, rgba(57, 4, 4, 1) 0%, rgba(92, 4, 4, 1) 100%);
+    background-image:#091b6b;
     ;
     background-image: #091b6b;
     font-weight: 700;
@@ -1061,7 +1061,7 @@
     line-height: 1.06667rem;
     text-align: center;
     width: calc(24% - 0.04rem);
-    background: #6F6F6F;
+    background: #192ae8;
     color: #fff;
     border-radius: 0.13333rem 0.13333rem 0 0;
 }
@@ -1095,7 +1095,7 @@
     border-radius: 0.21333rem;
     overflow: hidden;
     background: #1723b7;
-    color: #a6a9ae;
+    color: #ffffff;
 }
 
 .game-list .tab .li .txt.action[data-v-03b808c2] {

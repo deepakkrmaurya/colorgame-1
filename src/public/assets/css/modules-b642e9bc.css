@@ -537,7 +537,8 @@ ul {
     font: normal normal normal .18667rem/1 var(--van-icon-font-family, "vant-icon");
     font-size: inherit;
     text-rendering: auto;
-    -webkit-font-smoothing: antialiased
+    -webkit-font-smoothing: antialiased;
+    color: #fff !important;
 }
 
 .van-icon:before {
@@ -1270,6 +1271,7 @@ ul {
 
 .van-icon-arrow:before {
     content: ""
+    
 }
 
 .van-icon-after-sale:before {

@@ -33477,13 +33477,13 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
 .point[data-v-c10b67fb] {
     width: .13333rem;
     height: .13333rem;
-    background-color: #fcef9f;;
+    background-color: #ffffff;
     position: relative;
     border-radius: 50%
 }
 
 .point-flicker[data-v-c10b67fb]:after {
-    background-color: #fcef9f;
+    background-color: #ffffff;
 }
 
 .point-flicker[data-v-c10b67fb]:before {
@@ -33959,7 +33959,7 @@ html:lang(ar) .point-flicker[data-v-c10b67fb]:after {
 }
 
 .terms-logo-left img[data-v-a3117ed9] {
-    width: 100%
+    width: 40%
 }
 
 .terms-logo-service[data-v-a3117ed9] {
@@ -34009,7 +34009,7 @@ html:lang(ar) .point-flicker[data-v-c10b67fb]:after {
     width: .21333rem;
     height: .21333rem;
     vertical-align: middle;
-    color: var(--main-color)
+    color: #fcef7f;
 }
 
 .terms-rule span[data-v-a3117ed9] {
@@ -35439,7 +35439,7 @@ html:lang(ar) .point-flicker[data-v-c10b67fb]:after {
 .content-daman__right .message svg {
     width: .74667rem;
     height: .74667rem;
-    color: var(--main-color)
+    color: #ffffff;
 }
 
 .content-daman__right .point {

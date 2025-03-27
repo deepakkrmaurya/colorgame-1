@@ -271,22 +271,22 @@
     width: 2.66667rem;
     height: 1.06667rem;
     line-height: 1.06667rem;
-    color: #a6a9ae;
+    color: #ffffff;
 }
 
 .game .page-nav .arr[data-v-42f27458] {
     height: 1.06667rem;
     width: 1.06667rem;
-    background-color: #A6A9AE;
+    background-color: #ffffff;
     border-radius: .13333rem
 }
 
 .game .page-nav .arr .icon[data-v-42f27458] {
-    color: #ffffff !important
+    color: #000000 !important
 }
 
 .game .page-nav .arr .icon.action[data-v-42f27458] {
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .game .page-nav .arr.action[data-v-42f27458] {
@@ -735,7 +735,7 @@
     width: 1.46667rem;
     height: 1.46667rem;
     line-height: 1.46667rem;
-    background: #A6A9AE;
+    background: #ffffff;
     border-radius: 50%;
     font-size: .8rem;
     color: #404040;
@@ -814,7 +814,7 @@
     width: 1.06667rem;
     height: 1.06667rem;
     line-height: 1.06667rem;
-    background: #6F6F6F;
+    background: #0e03ff;
     font-size: .42667rem;
     font-weight: 700;
     color: #fff;
@@ -875,7 +875,7 @@
     width: calc((100% - 1.36rem)/4);
     height: 100%;
     background: #060f7d;
-    color: #a6a9ae;
+    color: #ffffff;
     border-radius: 0.13333rem;
     padding: 0 0.16rem;
     display: -webkit-box;
@@ -917,7 +917,7 @@
     position: relative;
     width: 0.88rem;
     height: 0.88rem;
-    border: 0.01333rem solid #A6A9AE;
+    border: 0.01333rem solid #ffffff;
     border-radius: 50%;
     color: #fff;
     font-size: .37333rem;
@@ -945,7 +945,7 @@
     font-weight: 400;
     font-size: .32rem;
     line-height: .32rem;
-    color: #a6a9ae;
+    color: #ffffff;
 }
 
 .game[data-v-42f27458] {
@@ -1000,7 +1000,7 @@
 .game-betting .content .page-box .last-round>span[data-v-42f27458] {
     font-size: .37333rem;
     font-weight: 400;
-    color: #8e8e93;
+    color: #ffffff;
     max-width: 2.4rem
 }
 
@@ -1009,8 +1009,8 @@
     height: 0.93333rem;
     width: 0.93333rem;
     line-height: .93333rem;
-    background: #A6A9AE;
-    border: 0.01333rem solid #A6A9AE;
+    background: #22275b;
+    border: 0.01333rem solid #ffffff;
     font-size: .34667rem;
     color: #22275b;
     border-radius: 50%;
@@ -1036,7 +1036,7 @@
     bottom: -.53333rem;
     left: .4rem;
     line-height: .42667rem;
-    color: #9da7b3;
+    color: #ffffff;
     font-size: .37333rem;
     font-weight: 400
 }
@@ -1087,7 +1087,7 @@
     margin: 0 .26667rem;
     margin-right: 0.131rem;
     background-color: transparent;
-    color: #a6a9ae;
+    color: #ffffff;
 }
 
 .game-list[data-v-42f27458] {
@@ -1114,7 +1114,7 @@
     border-radius: 0.21333rem;
     overflow: hidden;
     background: #1723b7;
-    color: #a6a9ae;
+    color: #ffffff;
 }
 
 .game-list .tab .li .txt.action[data-v-42f27458] {
@@ -1389,7 +1389,7 @@
     margin-left: 0.16rem;
     padding: 0 0.21333rem;
     background: #171b3f;
-    color: #a6a9ae;
+    color: #ffffff;
     border-radius: 0.13333rem;
 }
 
@@ -1462,7 +1462,7 @@
     margin-left: 0.16rem;
     padding: 0 0.21333rem;
     background: #171b3f;
-    color: #a6a9ae;
+    color: #ffffff;
     border-radius: 0.13333rem;
 }
 
@@ -1491,7 +1491,7 @@
     -webkit-flex: 1;
     flex: 1;
     background: #22275b;
-    color: #a6a9ae;
+    color: #ffffff;
 }
 
 .game .betting-mark .foot .right[data-v-42f27458] {

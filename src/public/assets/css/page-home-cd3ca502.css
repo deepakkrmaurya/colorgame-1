@@ -2949,7 +2949,7 @@ html:lang(ar) .lotteryGamesList__container-item__time[data-v-22e2ba37] {
 
 .sysMessage__container-msgWrapper__item-time[data-v-8084bf25] {
     margin-block: .10667rem .37333rem;
-    color: var(--text_color_L3);
+    color: #f8f9ff;
     font-size: .32rem;
     font-weight: 400
 }
@@ -33503,13 +33503,13 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
 .point[data-v-c10b67fb] {
     width: .13333rem;
     height: .13333rem;
-    background-color: #0000ea;
+    background-color:#ffffff;
     position: relative;
     border-radius: 50%
 }
 
 .point-flicker[data-v-c10b67fb]:after {
-    background-color: #0909df;
+    background-color: #ffffff;
 }
 
 .point-flicker[data-v-c10b67fb]:before {
@@ -33979,7 +33979,7 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
 }
 
 .terms-logo-left img[data-v-a3117ed9] {
-    width: 100%
+    width: 40%
 }
 
 .terms-logo-service[data-v-a3117ed9] {
@@ -34029,7 +34029,7 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
     width: .21333rem;
     height: .21333rem;
     vertical-align: middle;
-    color: var(--main-color)
+    color: #fcef7f;
 }
 
 .terms-rule span[data-v-a3117ed9] {
@@ -35462,7 +35462,7 @@ html:lang(ar) .WinTrx__C-head-more[data-v-ac90c264] {
 .content-daman__right .message svg {
     width: .74667rem;
     height: .74667rem;
-    color: #0000ff;
+    color: #ffffff;
 }
 
 .content-daman__right .point {

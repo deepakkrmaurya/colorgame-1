@@ -175,7 +175,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .tabbar__container-item.active[data-v-6ab3f23e] {
-    color: var(--main-color) !important
+    color: #ffffff !important;
 }
 
 @media screen and (max-width: 500px) {
@@ -1155,7 +1155,7 @@ textarea {
     bottom: 0;
     right: 0;
     height: .01333rem;
-    border-bottom: .01333rem solid #0030f3;
+    border-bottom: .01333rem solid #e4e5eb;
     color: #e6e8e8;
     -webkit-transform-origin: 0 100%;
     transform-origin: 0 100%;
