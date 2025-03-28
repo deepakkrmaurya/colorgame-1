@@ -333,6 +333,7 @@ const register = async (req, res) => {
 
 const sendOtpCode = async (req, res) => {
   try {
+    
     const schema = Joi.object({
       phone: Joi.string().length(10).required(),
     });
@@ -345,22 +346,23 @@ const sendOtpCode = async (req, res) => {
     }
 
     let { phone } = req.body;
+    // console.log(phone)
     let now = new Date().getTime();
     let timeEnd = moment().add(1, "minute").valueOf();
     let otp = utils.generateUniqueNumberCodeByDigit(6);
-
+    // console.log(otp)
     const [rows] = await connection.query(
       "SELECT * FROM users WHERE `phone` = ? AND veri = 1",
       [phone],
     );
-
+  
     if (_.isEmpty(rows)) {
       return res.status(200).json({
         message: "Otp sent successfully",
         status: false,
       });
     }
-
+ 
     if (rows[0].time_otp - now <= 0) {
       const response = await axios({
         method: "GET",

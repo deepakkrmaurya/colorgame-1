@@ -63,5 +63,13 @@
     "globals": "^15.6.0",
     "prettier": "3.3.2"
   },
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudduhashmi/colorgame.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sudduhashmi/colorgame/issues"
+  },
+  "homepage": "https://github.com/sudduhashmi/colorgame#readme"
 }
